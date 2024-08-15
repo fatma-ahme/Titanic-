@@ -1,8 +1,8 @@
 # Titanic-Analysis
 
 ## OverViwe:
-  **Comprehensive Dashboard visualizing the data of the Titanic's passengers.**
-  **This dashboard was designed to offer insights into survival rates, socio-economic factors, and much more.**
+  **Comprehensive Dashboard visualizing the data of the Titanic's passengers,**
+  **This dashboard was designed to offer insights into survival rates, socio-economic factors.**
 
 ## Tools:
 **Power BI:**
