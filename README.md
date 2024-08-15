@@ -22,7 +22,7 @@
 4. Passengers by Survived :by pie chart find  precentage of Survived   38%
 5. survivd by age : line chart show the more survived passenger in range age 18 to 40
 ## Report:
-![Analysis]()
+![Analysis](https://github.com/fatma-ahme/Titanic-passengers-Power-BI/blob/main/DashBoard.PNG)
   
   
     
