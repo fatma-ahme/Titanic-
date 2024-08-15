@@ -1,14 +1,14 @@
 # Titanic-Analysis
 
 ## OverViwe:
-  comprehensive dashboard visualizing the data of the Titanic's passengers. 
-  This dashboard was designed to offer insights into survival rates, socio-economic factors, and much more.
+  **Comprehensive Dashboard visualizing the data of the Titanic's passengers.**
+  **This dashboard was designed to offer insights into survival rates, socio-economic factors, and much more.**
 
 ## Tools:
-  - Power BI:
-      * Cleaning
-      * Processing
-      * Visualization
+**Power BI:**
+* Cleaning
+* Processing
+* Visualization
 ## Analysis:
 **KPI:**
 1. Total number of passenger: 891
