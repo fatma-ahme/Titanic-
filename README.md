@@ -7,7 +7,7 @@
 ## Tools:
   - Power BI:
       * Cleaning
-      * Prخcessing
+      * Processing
       * Visualization
 ## Analysis:
 **KPI:**
