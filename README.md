@@ -7,8 +7,8 @@
 ## Tools:
   - Power BI:
       * Cleaning
-      * Pricessing
-      * Vaisualization
+      * Prخcessing
+      * Visualization
 ## Analysis:
 **KPI:**
 1. Total number of passenger: 891
